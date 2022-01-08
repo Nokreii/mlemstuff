@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "mlemstuff:poop_item"
+        }
+    },
+    "result": {
+        "item": "mlemstuff:poop_block",
+        "count": 1
+    }
+}

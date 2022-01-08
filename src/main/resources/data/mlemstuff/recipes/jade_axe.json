@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ##",
+    " /#",
+    " / "
+  ],
+  "key": {
+    "#": {
+      "item": "mlemstuff:jade_item"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mlemstuff:jade_axe",
+    "count": 1
+  }
+}

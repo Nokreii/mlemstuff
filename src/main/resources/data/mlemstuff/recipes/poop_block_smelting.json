@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mlemstuff:poop_item"
+  },
+  "result": "mlemstuff:poop_bar",
+  "experience": 1.2,
+  "cookingtime": 150
+}
+

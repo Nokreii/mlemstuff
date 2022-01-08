@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "mlmemstuf",
+  "version": "${version}",
+
+  "name": "MlemStuff",
+  "description": "This is my first mod, Mlemstuff!",
+  "authors": [
+    "mlemmily"
+  ],
+  "contact": {
+    "homepage": "https://github.com/mlemmily/mlemstuff",
+    "sources": "https://github.com/mlemmily/mlemstuff"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/mlemstuff/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mlem.stuff.MlemStuff"
+    ],
+    "client": [
+      "net.mlem.stuff.MlemStuffClient"]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

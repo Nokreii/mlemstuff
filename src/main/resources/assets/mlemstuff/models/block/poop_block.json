@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "mlemstuff:block/poop_block_top",
+    "front": "mlemstuff:block/poop_block_front",
+    "side": "mlemstuff:block/poop_block_sides"
+  }
+}

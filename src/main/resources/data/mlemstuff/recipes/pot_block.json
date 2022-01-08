@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "_F_",
+    "DDD"
+  ],
+  "key": {
+    "_": {
+      "item": "minecraft:diorite_slab"
+    },
+    "F": {
+      "item": "minecraft:flower_pot"
+    },
+    "D": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "result": {
+    "item": "mlemstuff:pot_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "item.mlemstuff.poop_item": "Poop",
+  "item.mlemstuff.poop_bar": "Poop Bar",
+  "block.mlemstuff.poop_block": "Poop Block",
+
+  "item.mlemstuff.cheese_item": "Cheese",
+
+  "item.mlemstuff.altheae_seeds": "Altheae Seeds",
+  "item.mlemstuff.altheae_flower": "Altheae Flower",
+  "block.mlemstuff.altheae_flower": "Altheae Flower",
+  "block.mlemstuff.altheae_pot": "Altheae Pot",
+  "block.mlemstuff.pot_shelf": "Pot Shelf",
+  "block.mlemstuff.pot_block": "Mlem Pot",
+
+  "block.mlemstuff.curtains_white": "White Curtains",
+
+  "item.mlemstuff.jade_item": "Jade",
+  "item.mlemstuff.jade_pickaxe": "Jade Pickaxe",
+  "item.mlemstuff.jade_axe": "Jade Axe",
+  "item.mlemstuff.jade_shovel": "Jade Shovel",
+  "item.mlemstuff.jade_hoe": "Jade Hoe",
+  "item.mlemstuff.jade_glaive": "Jade Glaive",
+  "block.mlemstuff.jade_ore_block": "Jade Ore",
+
+  "block.mlemstuff.nacho_hat": "Nacho Hat",
+  "block.mlemstuff.santa_hat": "Santa Hat",
+  "block.mlemstuff.soda_hat": "Soda Hat",
+  "block.mlemstuff.frog_hat": "Frog Hat",
+  "block.mlemstuff.propeller_hat": "Propeller Hat",
+
+
+  "item.mlemstuff.charged_gem": "Charged Gem",
+  "item.mlemstuff.luck_module": "Luck Module",
+  "item.mlemstuff.fortune_module": "Fortune Module",
+  "item.mlemstuff.charged_sword": "Charged Sword",
+  "block.mlemstuff.lightning_channeler": "Lightning Channeler",
+  "block.mlemstuff.cable_wire": "Cable Wire",
+  "block.mlemstuff.solar_redstone": "Redstone Solar Panel",
+
+  "item.mlemstuff.blood_sword": "Blood Sword",
+  "enchantment.mlemstuff.life_steal_enchantment": "Life Steal",
+
+  "itemGroup.mlemstuff.general": "MlemStuff"
+}
